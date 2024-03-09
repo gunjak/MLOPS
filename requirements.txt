@@ -4,3 +4,8 @@ numpy
 ipykernel
 matplotlib
 seaborn
+xgboost
+dill
+catboost
+flask
+Gunicorn
